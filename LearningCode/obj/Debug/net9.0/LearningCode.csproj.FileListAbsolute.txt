@@ -1,0 +1,14 @@
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\bin\Debug\net9.0\LearningCode.exe
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\bin\Debug\net9.0\LearningCode.deps.json
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\bin\Debug\net9.0\LearningCode.runtimeconfig.json
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\bin\Debug\net9.0\LearningCode.dll
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\bin\Debug\net9.0\LearningCode.pdb
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\LearningCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\LearningCode.AssemblyInfoInputs.cache
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\LearningCode.AssemblyInfo.cs
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\LearningCode.csproj.CoreCompileInputs.cache
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\LearningCode.dll
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\refint\LearningCode.dll
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\LearningCode.pdb
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\LearningCode.genruntimeconfig.cache
+D:\Unity course\Cooking Game\Assets\game\code\LearningCode\obj\Debug\net9.0\ref\LearningCode.dll
